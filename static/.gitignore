@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Jupyter / Streamlit
+.ipynb_checkpoints/
+.streamlit/config.toml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Chroma persistence (optional)
+chroma/
+
+# Logs
+*.log
+
+# Compiled
+*.egg-info/
+*.egg
+*.whl
+
+# Others
+*.sqlite3
+*.db
