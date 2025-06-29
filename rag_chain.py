@@ -1,7 +1,4 @@
 # rag_chain.py  (LLAMA‑3.1 version)
-import os
-os.environ["ANONYMIZED_TELEMETRY"] = "False"
-
 from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_ollama import ChatOllama, OllamaEmbeddings
