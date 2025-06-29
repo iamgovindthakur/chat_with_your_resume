@@ -6,7 +6,7 @@ Chat with any PDF résumé (or other PDF document) **entirely on your local mach
 * **LangChain** — retrieval‑augmented generation pipeline
 * **Streamlit** — simple web UI
 
-[https://user-images.githubusercontent.com/000000/placeholder-demo.gif](https://user-images.githubusercontent.com/000000/placeholder-demo.gif)
+![Demo Screenshot](static/picture.png)
 
 ---
 
