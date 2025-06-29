@@ -28,8 +28,8 @@ Chat with any PDF résumé (or other PDF document) **entirely on your local mach
 
 ```bash
 # 1. Clone repo & enter it
-git clone https://github.com/your‑user/chat‑my‑resume.git
-cd chat‑my‑resume
+git clone https://github.com/iamgovindthakur/chat_with_your_resume.git
+cd chat‑with-your‑resume
 
 # 2. Create & activate a virtual env (recommended)
 python -m venv .venv
@@ -53,13 +53,11 @@ Open your browser at **[http://localhost:8501](http://localhost:8501)**.
 ## 🏗️  Project Structure
 
 ```
-chat-my-resume/
+chat-with-your-resume/
 ├── app.py                # Streamlit UI
 ├── rag_chain.py          # LangChain + RAG logic
 ├── requirements.txt
 ├── README.md
-└── .streamlit/
-    └── config.toml       # Optional theme settings
 ```
 
 ---
